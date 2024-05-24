@@ -1,0 +1,12 @@
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\bin\Debug\Rand Math Questions.exe.config
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\bin\Debug\Rand Math Questions.exe
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\bin\Debug\Rand Math Questions.pdb
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand Math Questions.csproj.AssemblyReference.cache
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand_Math_Questions.Form1.resources
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand_Math_Questions.Form2.resources
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand_Math_Questions.Form3.resources
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand_Math_Questions.Properties.Resources.resources
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand Math Questions.csproj.GenerateResource.cache
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand Math Questions.csproj.CoreCompileInputs.cache
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand Math Questions.exe
+C:\Users\Matiss\Documents\C# projects\Rand Math Questions\obj\Debug\Rand Math Questions.pdb
